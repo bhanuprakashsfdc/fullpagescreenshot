@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Full Page Screenshot",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Capture, annotate, and export full-page screenshots.",
+    "description": "Extension description"
+  },
+  "captureMenu": {
+    "message": "Capture Full Page Screenshot",
+    "description": "Context menu item"
+  },
+  "captureCommand": {
+    "message": "Capture current page",
+    "description": "Keyboard shortcut command description"
+  },
+  "captureProgress": {
+    "message": "Capturing page...",
+    "description": "Progress message during capture"
+  },
+  "captureComplete": {
+    "message": "Capture complete",
+    "description": "Message shown when capture finishes"
+  },
+  "captureError": {
+    "message": "Capture failed",
+    "description": "Message shown when capture fails"
+  }
+}
